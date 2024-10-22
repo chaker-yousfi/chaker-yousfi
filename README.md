@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="center"
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Heyyy+tech+community+...;I'm+Computer+Science+Student%2C;...+AI+%26+Data+Science+Enthusiast%2C+)](https://git.io/typing-svg)
-/>
+<div/>
 ## Contact me
 
 
@@ -31,7 +31,7 @@ I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :seedling: I try to explore the world of data science.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/chaker-yousfi)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/chaker-yousfi)
 
   ---
 
