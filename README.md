@@ -13,7 +13,7 @@
 
 
 <div id="badges">
-  <a href="www.linkedin.com/in/chaker-yousfi">
+  <a href="https://www.linkedin.com/in/chaker-yousfi" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/yousfi.chaker" rel="nofollow">
@@ -31,7 +31,7 @@ I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :seedling: I try to explore the world of data science.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("www.linkedin.com/in/chaker-yousfi")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/chaker-yousfi")
 
   ---
 
