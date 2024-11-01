@@ -31,7 +31,6 @@ I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :seedling: I try to explore the world of data science.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/chaker-yousfi")
 
   ---
 
